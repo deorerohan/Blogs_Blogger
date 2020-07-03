@@ -10,8 +10,8 @@ I know 1 hr for 5 min video is too much but it was first time I had to learn eac
 
 I love open source softwares. People are giving you extraordinary software for free and still you want to pay for crapy software that doesn't make sense to me. You can use a software if you feel it's great then you just have to use it more, try to help people who are creating any way you want. You can contribute some money to them for maintaining servers, you can create buzz about it in social media, if possible you can help with software creation itself. Only think creator of software expects is some appreciation or small help.  
 I have used OBS software for video recording and OpenShot software for video editing. I have used them for creating presentations in office.
-You can download software from [official website][https://obsproject.com/].
-There is lot of information on official [blogs][https://obsproject.com/blog]
+You can download software from [official website](https://obsproject.com/).
+There is lot of information on official [blogs](https://obsproject.com/blog)
 
 OBS software is created for streamers but it contains very good option of recording to file. You just have to configure it as per your requirements.  
 For current demo I was sure that I was not going to use any shortcut keys so I set very simple shortcut keys for starting and stopping of recording (Ctrl + 0). While I was showing presentation I wanted to connect to my audience so I added small size video of me from webcam in one side. But when I was showing application I needed complete screen so stopped my video. To accomplish that there is scene option in OBS, you can define multiple scene and each scene can have set of sources which can be video from webcam, or scene capture or audio input from any device. For above scenarios I created 2 scenes with and without my video and put shortcut keys like Ctrl + 1 and Ctrl + 2. So it was very easy to switch between scenes.  
@@ -20,13 +20,13 @@ You have to careful about creating setup and shortcut keys. If you are going to 
 ## OpenShot
 
 OpenShot is video editing software.  
-You can download latest software from [official website][https://www.openshot.org/].  
+You can download latest software from [official website](https://www.openshot.org/).  
 
 It is very intuitive software even if you don't know anything about video editing you can be master by just using exiting things. It's up to you to define how complex you are willing to go to get expected final video this software can let you create any video you wish to.  
 
-![Main screen][https://cdn.openshot.org/static/img/gallery/ui-example.jpg]
+![Main screen](https://cdn.openshot.org/static/img/gallery/ui-example.jpg)
 
-If you want to learn more about OpenShot there are very good tutorials created by [Jonathan Thomas][https://www.youtube.com/channel/UCIaiAJKGrdkVXD26ycTFPzQ]. I would like to tell you about some of the things I liked or used while I was creating video.
+If you want to learn more about OpenShot there are very good tutorials created by [Jonathan Thomas](https://www.youtube.com/channel/UCIaiAJKGrdkVXD26ycTFPzQ). I would like to tell you about some of the things I liked or used while I was creating video.
 
 ### Use markers
 
@@ -38,6 +38,6 @@ Generally video rendering is very machine intensive task even if you have best m
 
 ## Conclusion
 
-Using open source software I was able to create great software in small time. OBS and OpenShot software are very good software for general use.
+Using open source software I was able to create great video in small time. OBS and OpenShot software are very good software for general use.
 
-Hope you liked my suggestions and different approach to look at video editing. If you think you like it please give me shout out at @geeky_rd on twitter. 
+Hope you liked my suggestions and different approach to look at video editing. If you think you like it please give me shout out at @geeky_rd on twitter.
