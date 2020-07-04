@@ -4,11 +4,11 @@
 
 MVVM is one of simple and very useful architecture. It's being used in various commercial applications with great success. To understand success of MVVM we will have start with why just like [Simon Sinek](1) said. We will have to understand Why do we need software architecture and how MVVM is useful.
 
-## What is architecture?
+## "What is architecture?"
 
 Software architecture is fundamental structure for code which will be define elements and relations between them. To read more in depth start from [Software architecture Wiki](3) definition. If you have architecture well defined it gets really simple to write code.
 
-## What is MVVM?
+## "What is MVVM?"
 
 Model - View - ViewModel is architecture with 3 distinct areas isolated but directly dependent on lower module.
 
@@ -40,7 +40,6 @@ This module is modified only when there are fundamental changes in business logi
 
 ## UI Services
 
-
 ### What principles are used in MVVM
 
 - Single responsibility
@@ -51,14 +50,10 @@ This module is modified only when there are fundamental changes in business logi
 - Isolated code
 - Maintainability
 
-
-
-
-
 ## Conclusion
 
 ## References
 
-[1] https://twitter.com/simonsinek
-[2] https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
-[3] https://en.wikipedia.org/wiki/Software_architecture
+[1] `https://twitter.com/simonsinek`  
+[2] `https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel`  
+[3] `https://en.wikipedia.org/wiki/Software_architecture`
