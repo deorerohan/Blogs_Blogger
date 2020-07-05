@@ -2,11 +2,11 @@
 
 ## Introduction
 
-MVVM is one of simple and very useful architecture. It's being used in various commercial applications with great success. To understand success of MVVM we will have "Start With Why" just like [Simon Sinek](1) said. We will have to understand why do we need software architecture and how MVVM is useful. Main intension of this article is to give head-start to reader.
+MVVM is one of simple and very useful architecture. It's being used in various commercial applications with great success. To understand success of MVVM we will have "Start With Why" just like [Simon Sinek](https://twitter.com/simonsinek) said. We will have to understand why do we need software architecture and how MVVM is useful. Main intension of this article is to give head-start to reader.
 
 ## "What is architecture?"
 
-Software architecture is fundamental structure for code which will define elements and relations between them. To read more in depth start from [Software architecture Wiki](3) definition. If you have architecture well defined it gets really simple to write code.
+Software architecture is fundamental structure for code which will define elements and relations between them. To read more in depth start from [Software architecture Wiki](https://en.wikipedia.org/wiki/Software_architecture) definition. If you have architecture well defined it gets really simple to write code.
 
 ## "What is MVVM?"
 
@@ -14,9 +14,9 @@ Model - View - ViewModel is architecture with 3 distinct areas isolated but dire
 
 ![MVMM Diagram](MVVM_images/MVVMPattern.png)
 
-For more information you can start from [MVVM Wiki](2).
+For more information you can start from [MVVM Wiki](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel).
 
-I have created very simplified version of [MVVM Template code](4) that can be copied and modified for required application.
+I have created very simplified version of [MVVM Template code](https://github.com/deorerohan/MVVM_Template) that can be copied and modified for required application.
 
 ## View
 
@@ -56,7 +56,7 @@ MVVM is simple segregation of code in three different modules, with rules of eng
 
 ## References
 
-[1] `https://twitter.com/simonsinek`  
-[2] `https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel`  
-[3] `https://en.wikipedia.org/wiki/Software_architecture`
-[4] `https://github.com/deorerohan/MVVM_Template`
+[1] "https://twitter.com/simonsinek"  
+[2] "https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel"  
+[3] "https://en.wikipedia.org/wiki/Software_architecture"  
+[4] "https://github.com/deorerohan/MVVM_Template"
